@@ -1,4 +1,4 @@
-#!/var/www/vhosts/beroads/public_html/dashboard/dashboard/bin/python
+#!/Applications/MAMP/htdocs/beroads/dashboard/dashboard/bin/python
 
 # $Id: rst2xml.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: David Goodger <goodger@python.org>

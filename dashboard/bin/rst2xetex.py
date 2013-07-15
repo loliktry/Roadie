@@ -1,4 +1,4 @@
-#!/var/www/vhosts/beroads/public_html/dashboard/dashboard/bin/python
+#!/Applications/MAMP/htdocs/beroads/dashboard/dashboard/bin/python
 
 # $Id: rst2xetex.py 7038 2011-05-19 09:12:02Z milde $
 # Author: Guenter Milde

@@ -1,4 +1,4 @@
-#!/var/www/vhosts/beroads/public_html/dashboard/dashboard/bin/python
+#!/Applications/MAMP/htdocs/beroads/dashboard/dashboard/bin/python
 
 # Author: 
 # Contact: grubert@users.sf.net

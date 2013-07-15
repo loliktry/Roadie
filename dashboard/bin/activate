@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/var/www/vhosts/beroads/public_html/dashboard/dashboard"
+VIRTUAL_ENV="/Applications/MAMP/htdocs/beroads/dashboard/dashboard"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

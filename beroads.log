@@ -1369,3 +1369,25 @@ Traceback (most recent call last):
   File "main.py", line 306, in traffic_differ
     if int(new['TrafficEvent']['item'][i]['id']) == int(old['TrafficEvent']['item'][j]['id']):
 KeyError: 'id'
+2013-07-15 14:59:55,993 - root - ERROR - Cannot connect to MySQL on localhost
+Traceback (most recent call last):
+  File "/Applications/MAMP/htdocs/beroads/dashboard/dashboard/lib/python2.7/site-packages/torndb.py", line 91, in __init__
+    self.reconnect()
+  File "/Applications/MAMP/htdocs/beroads/dashboard/dashboard/lib/python2.7/site-packages/torndb.py", line 108, in reconnect
+    self._db = MySQLdb.connect(**self._db_args)
+  File "/Applications/MAMP/htdocs/beroads/dashboard/dashboard/lib/python2.7/site-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/Applications/MAMP/htdocs/beroads/dashboard/dashboard/lib/python2.7/site-packages/MySQLdb/connections.py", line 187, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (2002, "Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)")
+2013-07-15 15:00:00,598 - root - ERROR - Cannot connect to MySQL on localhost
+Traceback (most recent call last):
+  File "/Applications/MAMP/htdocs/beroads/dashboard/dashboard/lib/python2.7/site-packages/torndb.py", line 91, in __init__
+    self.reconnect()
+  File "/Applications/MAMP/htdocs/beroads/dashboard/dashboard/lib/python2.7/site-packages/torndb.py", line 108, in reconnect
+    self._db = MySQLdb.connect(**self._db_args)
+  File "/Applications/MAMP/htdocs/beroads/dashboard/dashboard/lib/python2.7/site-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/Applications/MAMP/htdocs/beroads/dashboard/dashboard/lib/python2.7/site-packages/MySQLdb/connections.py", line 187, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (2002, "Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)")

@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/var/www/vhosts/beroads/public_html/dashboard/dashboard"
+set -gx VIRTUAL_ENV "/Applications/MAMP/htdocs/beroads/dashboard/dashboard"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
