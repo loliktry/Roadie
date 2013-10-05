@@ -1,4 +1,4 @@
-#!/Applications/MAMP/htdocs/beroads/dashboard/dashboard/bin/python
+#!/var/www/html/beroads/dashboard/dashboard/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==0.6c11','console_scripts','easy_install'
 __requires__ = 'setuptools==0.6c11'
 import sys

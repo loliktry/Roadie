@@ -1,4 +1,4 @@
-#!/Applications/MAMP/htdocs/beroads/dashboard/dashboard/bin/python
+#!/var/www/html/beroads/dashboard/dashboard/bin/python
 # Copyright (c) Twisted Matrix Laboratories.
 # See LICENSE for details.
 

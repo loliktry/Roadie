@@ -1,4 +1,4 @@
-#!/Applications/MAMP/htdocs/beroads/dashboard/dashboard/bin/python
+#!/var/www/html/beroads/dashboard/dashboard/bin/python
 
 # $Id: rst2latex.py 5905 2009-04-16 12:04:49Z milde $
 # Author: David Goodger <goodger@python.org>
