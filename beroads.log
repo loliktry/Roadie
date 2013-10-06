@@ -1,91 +1,196 @@
 
-2013-10-05 17:11:42,870 - root - ERROR - Cannot connect to MySQL on localhost
+2013-10-06 22:32:19,545 - root - INFO - BeRoads webserver listening on 8080
+2013-10-06 22:32:20,446 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:20,452 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:20,452 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:20,456 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:20,456 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:20,457 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:20,457 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:20,458 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:21,346 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:21,349 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:21,350 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:21,353 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:21,354 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:21,357 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:21,358 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:21,361 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:22,246 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:22,250 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:22,251 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:22,255 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:22,255 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:22,260 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:22,261 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:22,265 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:23,146 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:23,147 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:23,147 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:23,149 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:23,149 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:23,151 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:23,151 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:23,152 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:24,046 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:24,050 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:24,050 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:24,054 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:24,054 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:24,058 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:24,059 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:24,062 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:24,946 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:24,950 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:24,950 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:24,954 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:24,955 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:24,960 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:24,961 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:24,966 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:25,846 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:25,850 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:25,851 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:25,855 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:25,855 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:25,860 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:25,861 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:25,866 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:26,746 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:26,749 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:26,749 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:26,752 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:26,752 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:26,755 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:26,755 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:26,756 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:27,646 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:27,650 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:27,651 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:27,654 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:27,655 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:27,659 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:27,659 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:27,663 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:28,546 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:28,551 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:28,551 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:28,555 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:28,555 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:28,559 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:28,560 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:28,565 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:29,446 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:29,450 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:29,450 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:29,454 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:29,454 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:29,459 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:29,460 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:29,464 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:30,346 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:30,351 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:30,351 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:30,355 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:30,355 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:30,361 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:30,361 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:30,365 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:31,246 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:31,250 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:31,250 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:31,253 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:31,254 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:31,257 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:31,257 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:31,261 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:32,145 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:32,149 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:32,149 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:32,153 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:32,153 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:32,154 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:32,155 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:32,157 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:33,046 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:33,050 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:33,050 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:33,054 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:33,054 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:33,058 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:33,058 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:33,062 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:33,946 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:33,950 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:33,958 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:33,963 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:33,963 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:33,966 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:33,967 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:33,970 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:34,846 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:34,850 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:34,851 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:34,854 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:34,855 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:34,858 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:34,859 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:34,863 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:35,746 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:35,750 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:35,750 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:35,754 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:35,754 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:35,758 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:35,759 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:35,765 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:36,646 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:36,649 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:36,650 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:36,653 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:36,654 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:36,659 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:36,659 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:36,664 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:37,546 - traffic loader - INFO - Fetching nl traffic ...
+2013-10-06 22:32:37,549 - notification pusher - INFO - Notifying subscribers from channel nl
+2013-10-06 22:32:37,550 - traffic loader - INFO - Fetching fr traffic ...
+2013-10-06 22:32:37,553 - notification pusher - INFO - Notifying subscribers from channel fr
+2013-10-06 22:32:37,554 - traffic loader - INFO - Fetching de traffic ...
+2013-10-06 22:32:37,557 - notification pusher - INFO - Notifying subscribers from channel de
+2013-10-06 22:32:37,557 - traffic loader - INFO - Fetching en traffic ...
+2013-10-06 22:32:37,560 - notification pusher - INFO - Notifying subscribers from channel en
+2013-10-06 22:32:38,371 - root - ERROR - 
 Traceback (most recent call last):
-  File "/var/www/html/beroads/dashboard/dashboard/lib/python2.7/site-packages/torndb.py", line 91, in __init__
-    self.reconnect()
-  File "/var/www/html/beroads/dashboard/dashboard/lib/python2.7/site-packages/torndb.py", line 108, in reconnect
-    self._db = MySQLdb.connect(**self._db_args)
-  File "/var/www/html/beroads/dashboard/dashboard/lib/python2.7/site-packages/MySQLdb/__init__.py", line 81, in Connect
-    return Connection(*args, **kwargs)
-  File "/var/www/html/beroads/dashboard/dashboard/lib/python2.7/site-packages/MySQLdb/connections.py", line 187, in __init__
-    super(Connection, self).__init__(*args, **kwargs2)
-OperationalError: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
-2013-10-05 17:11:42,879 - root - INFO - BeRoads webserver listening on 9000
-2013-10-05 18:03:46,477 - root - ERROR - 
-Traceback (most recent call last):
-  File "main_2.py", line 1407, in <module>
-    app = Application()
-  File "main_2.py", line 238, in __init__
-    if self.twitter_bots[language].VerifyCredentials() is None:
-  File "/var/www/html/beroads/dashboard/dashboard/lib/python2.7/site-packages/twitter.py", line 4165, in VerifyCredentials
-    json = self._FetchUrl(url, no_cache=True)
-  File "/var/www/html/beroads/dashboard/dashboard/lib/python2.7/site-packages/twitter.py", line 4519, in _FetchUrl
-    response = opener.open(url, encoded_post_data)
-  File "/usr/lib64/python2.7/urllib2.py", line 400, in open
-    response = self._open(req, data)
-  File "/usr/lib64/python2.7/urllib2.py", line 418, in _open
-    '_open', req)
-  File "/usr/lib64/python2.7/urllib2.py", line 378, in _call_chain
-    result = func(*args)
-  File "/usr/lib64/python2.7/urllib2.py", line 1215, in https_open
-    return self.do_open(httplib.HTTPSConnection, req)
-  File "/usr/lib64/python2.7/urllib2.py", line 1174, in do_open
-    h.request(req.get_method(), req.get_selector(), req.data, headers)
-  File "/usr/lib64/python2.7/httplib.py", line 958, in request
-    self._send_request(method, url, body, headers)
-  File "/usr/lib64/python2.7/httplib.py", line 992, in _send_request
-    self.endheaders(body)
-  File "/usr/lib64/python2.7/httplib.py", line 954, in endheaders
-    self._send_output(message_body)
-  File "/usr/lib64/python2.7/httplib.py", line 814, in _send_output
-    self.send(msg)
-  File "/usr/lib64/python2.7/httplib.py", line 776, in send
-    self.connect()
-  File "/usr/lib64/python2.7/httplib.py", line 1161, in connect
-    self.sock = ssl.wrap_socket(sock, self.key_file, self.cert_file)
-  File "/usr/lib64/python2.7/ssl.py", line 381, in wrap_socket
-    ciphers=ciphers)
-  File "/usr/lib64/python2.7/ssl.py", line 143, in __init__
-    self.do_handshake()
-  File "/usr/lib64/python2.7/ssl.py", line 305, in do_handshake
-    self._sslobj.do_handshake()
+  File "/var/www/html/beroads/dashboard/main.py", line 1426, in <module>
+    main_loop.start()
+  File "/var/www/html/beroads/dashboard/dashboard/lib/python2.7/site-packages/tornado/ioloop.py", line 646, in start
+    event_pairs = self._impl.poll(poll_timeout)
 KeyboardInterrupt
-2013-10-05 18:03:56,997 - root - ERROR - 
-Traceback (most recent call last):
-  File "main_2.py", line 1408, in <module>
-    app = Application()
-  File "main_2.py", line 239, in __init__
-    if self.twitter_bots[language].VerifyCredentials() is None:
-  File "/var/www/html/beroads/dashboard/dashboard/lib/python2.7/site-packages/twitter.py", line 4165, in VerifyCredentials
-    json = self._FetchUrl(url, no_cache=True)
-  File "/var/www/html/beroads/dashboard/dashboard/lib/python2.7/site-packages/twitter.py", line 4519, in _FetchUrl
-    response = opener.open(url, encoded_post_data)
-  File "/usr/lib64/python2.7/urllib2.py", line 400, in open
-    response = self._open(req, data)
-  File "/usr/lib64/python2.7/urllib2.py", line 418, in _open
-    '_open', req)
-  File "/usr/lib64/python2.7/urllib2.py", line 378, in _call_chain
-    result = func(*args)
-  File "/usr/lib64/python2.7/urllib2.py", line 1215, in https_open
-    return self.do_open(httplib.HTTPSConnection, req)
-  File "/usr/lib64/python2.7/urllib2.py", line 1174, in do_open
-    h.request(req.get_method(), req.get_selector(), req.data, headers)
-  File "/usr/lib64/python2.7/httplib.py", line 958, in request
-    self._send_request(method, url, body, headers)
-  File "/usr/lib64/python2.7/httplib.py", line 992, in _send_request
-    self.endheaders(body)
-  File "/usr/lib64/python2.7/httplib.py", line 954, in endheaders
-    self._send_output(message_body)
-  File "/usr/lib64/python2.7/httplib.py", line 814, in _send_output
-    self.send(msg)
-  File "/usr/lib64/python2.7/httplib.py", line 776, in send
-    self.connect()
-  File "/usr/lib64/python2.7/httplib.py", line 1161, in connect
-    self.sock = ssl.wrap_socket(sock, self.key_file, self.cert_file)
-  File "/usr/lib64/python2.7/ssl.py", line 381, in wrap_socket
-    ciphers=ciphers)
-  File "/usr/lib64/python2.7/ssl.py", line 143, in __init__
-    self.do_handshake()
-  File "/usr/lib64/python2.7/ssl.py", line 305, in do_handshake
-    self._sslobj.do_handshake()
-KeyboardInterrupt
+2013-10-06 22:33:39,050 - root - INFO - BeRoads webserver listening on 8080
+2013-10-06 22:34:14,578 - tornado.access - WARNING - 403 GET / (127.0.0.1) 2.69ms
+2013-10-06 22:34:15,651 - tornado.access - WARNING - 404 GET /favicon.ico (127.0.0.1) 1.41ms
+2013-10-06 22:35:58,718 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): trafiroutes.wallonie.be
+2013-10-06 22:35:59,513 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): www.bruxellesmobilite.irisnet.be
+2013-10-06 22:36:00,917 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): www.verkeerscentrum.be
+2013-10-06 22:36:03,382 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): www.fedpol.be
+2013-10-06 22:36:04,266 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTP connection (1): www.polfed-fedpol.be
+2013-10-06 22:36:06,945 - tornado.access - INFO - 200 GET / (127.0.0.1) 8235.77ms
+2013-10-06 22:36:07,080 - tornado.access - INFO - 200 GET /static/css/bootstrap.css (127.0.0.1) 44.91ms
+2013-10-06 22:36:07,090 - tornado.access - INFO - 200 GET /static/css/datepicker.css (127.0.0.1) 9.02ms
+2013-10-06 22:36:07,114 - tornado.access - INFO - 200 GET /static/css/bootstrap-select.min.css (127.0.0.1) 24.05ms
+2013-10-06 22:36:07,117 - tornado.access - INFO - 200 GET /static/css/jquery.pnotify.default.css (127.0.0.1) 1.83ms
+2013-10-06 22:36:07,119 - tornado.access - INFO - 200 GET /static/js/jquery.js (127.0.0.1) 1.66ms
+2013-10-06 22:36:07,143 - tornado.access - INFO - 200 GET /static/js/bootstrap.min.js (127.0.0.1) 24.52ms
+2013-10-06 22:36:07,146 - tornado.access - INFO - 200 GET /static/js/bootstrap-datepicker.js (127.0.0.1) 1.71ms
+2013-10-06 22:36:07,194 - tornado.access - INFO - 200 GET /static/js/bootstrap-select.min.js (127.0.0.1) 46.86ms
+2013-10-06 22:36:07,200 - tornado.access - INFO - 200 GET /static/js/jquery.pnotify.min.js (127.0.0.1) 5.50ms
+2013-10-06 22:36:07,237 - tornado.access - INFO - 200 GET /static/js/ext-core.js (127.0.0.1) 36.19ms
+2013-10-06 22:36:07,377 - tornado.access - INFO - 200 GET /static/js/ext-chart.js (127.0.0.1) 138.68ms
+2013-10-06 22:36:07,639 - tornado.access - INFO - 200 GET /static/img/glyphicons-halflings-white.png (127.0.0.1) 27.46ms
+2013-10-06 22:36:09,771 - tornado.access - INFO - 200 GET /analytics/subscribers/web (127.0.0.1) 1.32ms
+2013-10-06 22:36:09,773 - tornado.access - INFO - 200 GET /analytics/subscribers/google (127.0.0.1) 0.96ms
+2013-10-06 22:36:09,774 - tornado.access - INFO - 200 GET /analytics/subscribers/apple (127.0.0.1) 1.07ms
+2013-10-06 22:36:09,822 - tornado.access - INFO - 200 GET /analytics/hit/all/all/monthly?&start_date=1356994800&end_date=1381091770 (127.0.0.1) 45.37ms
+2013-10-06 22:36:09,826 - tornado.access - INFO - 200 GET /analytics/coordinates/all/all?&start_date=1356994800&end_date=1381091770 (127.0.0.1) 2.93ms
+2013-10-06 22:37:21,233 - tornado.access - INFO - 200 GET /static/img/icon.png (127.0.0.1) 67.40ms
