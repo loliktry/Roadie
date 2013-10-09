@@ -1,4 +1,4 @@
-#!/var/www/html/beroads/dashboard/dashboard/bin/python
+#!/home/beroads/public_html/dashboard/dashboard/bin/python
 
 # $Id: rst2odt_prepstyles.py 5839 2009-01-07 19:09:28Z dkuhlman $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>
