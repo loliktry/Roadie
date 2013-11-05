@@ -27,7 +27,7 @@ end
 # unset irrelavent variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/var/www/html/beroads/dashboard/dashboard"
+set -gx VIRTUAL_ENV "/var/www/vhosts/beroads.com/dashboard/dashboard"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
